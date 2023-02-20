@@ -1,0 +1,2 @@
+darknet/darknet53.conv.74 filter=lfs diff=lfs merge=lfs -text
+darknet/bad_label.list filter=lfs diff=lfs merge=lfs -text
